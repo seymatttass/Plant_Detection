@@ -31,7 +31,7 @@ Model, Mendeley'den indirilen veri seti ile aşağıdaki konfigürasyonda eğiti
 
 - **Optimizasyon**: Adam
 - **Kayıp Fonksiyonu**: Kategorik Çapraz Entropi
-- **Batch Boyutu**: 8
+- **Batch Boyutu**: 12
 - **Epoch Sayısı**: 20
 - **Callbacks**: 
   - ModelCheckpoint: En iyi doğrulama doğruluğuna göre modeli kaydeder.
